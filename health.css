@@ -1,3 +1,7 @@
 body{
   background-color: #fff;
 }
+.dropdown-menu .show{
+  display: flex;
+  flex-direction: column;
+}
